@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashawantmanvi&show_icons=true&locale=en" alt="Yashawantmanvi" /></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashawantmanvi&" alt="Yashawantmanvi" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashawantmanvi&theme=default" alt="Yashawantmanvi" /></p>
 
